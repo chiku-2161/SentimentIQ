@@ -415,5 +415,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](file:///c:
 ## 21. Author
 
 **SentimentIQ Development Team**
-- GitHub Profile: [@your-username](https://github.com/your-username)
-- Project Repository: [https://github.com/your-username/SentimentIQ](https://github.com/your-username/SentimentIQ)
+- GitHub Profile: [@chiku-2161](https://github.com/chiku-2161)
+- Project Repository: [https://github.com/chiku-2161/SentimentIQ](https://github.com/chiku-2161/SentimentIQ/tree/main)
